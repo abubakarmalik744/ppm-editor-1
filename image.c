@@ -1,3 +1,4 @@
+//created by Luke Zahorik, 2015
 #include <stdio.h>
 #include <string.h>
 #include "ppm.h"
